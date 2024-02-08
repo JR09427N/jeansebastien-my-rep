@@ -3,9 +3,7 @@
 // more music options: DONE
 // snake color change every 10 apples: DONE
 // difficulty modes: DONE
-// sound effects
-// restart button
-// high scores
+// sound effects: DONE
 
 import java.awt.Color;
 
