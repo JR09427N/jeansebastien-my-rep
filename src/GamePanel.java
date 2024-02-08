@@ -1,4 +1,4 @@
-// add:
+// to add:
 // start game button: DONE
 // more music options: DONE
 // snake color change every 10 apples: DONE
