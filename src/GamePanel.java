@@ -95,7 +95,6 @@ public class GamePanel extends JPanel implements ActionListener{
 		timer.start();
 	}
 	
-	//?
 	public void paintComponent(Graphics g) {
 		playButton.setBounds(140, 215, 320, 50); // playButton x, y, width, height
 		playButton.setBackground(new Color(131, 170, 214)); // play button color
@@ -117,7 +116,6 @@ public class GamePanel extends JPanel implements ActionListener{
 		draw(g);
 	}
 	
-	//?
 	public void draw(Graphics g) {
 		
 		if(running) {
