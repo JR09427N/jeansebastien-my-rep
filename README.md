@@ -6,4 +6,4 @@ The user controls a snake using keyboard input to guide the snake to consume app
 
 There are color changes, sound effects, background music, level-ups, difficulty modes, and a game-over method, where if the snake’s head collides with its own body or the border, a game over screen is presented.
 
-[![Watch the video](https://www.kapwing.com/videos/65fc82f70f64e5efd69ee55a)
+[![Watch the video]([https://www.kapwing.com/videos/65fc82f70f64e5efd69ee55a](https://github.com/JR09427N/jeansebastien-my-rep/raw/refs/heads/main/snake-game-video.mp4))
