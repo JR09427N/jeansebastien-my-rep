@@ -6,4 +6,4 @@ The user controls a snake using keyboard input to guide the snake to consume app
 
 There are color changes, sound effects, background music, level-ups, difficulty modes, and a game-over method, where if the snake’s head collides with its own body or the border, a game over screen is presented.
 
-![Demo]("snake-game-video-ezgif.com-video-to-gif-converter.gif")
+<img src="snake-game-video-ezgif.com-video-to-gif-converter.gif" alt="Snake game GIF" width="600" height="400">
